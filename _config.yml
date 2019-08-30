@@ -1,9 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Home
+description: Portfolio Website
+author: Paul Kreymborg
+github: https://github.com/frenebo
+about: I'm a computer scientist.
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -15,16 +14,16 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+    # - icon: fa-facebook
+    #   link: "#"
+    # - icon: fa-twitter
+    #   link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/paul-k-b72152133/"
+    # - icon: fa-stack-exchange
+    #   link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/frenebo"
 
 share:
   twitter_username: github.io
@@ -38,7 +37,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://frenebo.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
